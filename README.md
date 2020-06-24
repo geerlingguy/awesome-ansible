@@ -61,6 +61,7 @@ A collaborative curated list of awesome Ansible resources
 *Ansible related Tools*
 
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
+- [Ansible Editor](https://ansible-editor.com) - An editor which contains all Ansible modules, using this editor you able to build playbooks easily and quickly.
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - creates a dot file suitable for use by [graphviz](http://www.graphviz.org/)
 - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
 - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
